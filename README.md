@@ -2,4 +2,4 @@
 Links to my LLM chats
 
 [Equations of the fully parameterized bivariate GARCH(1,1) model? (ChatGPT o3-mini-high)](https://chatgpt.com/share/67c8c558-21b0-8005-98f0-fa7e6f88cf5d)<br><br>
-[Tail behavior of the lognormal distribution (ChatGPT o1) 2025-03-26](https://chatgpt.com/share/67e3dd0e-9810-8005-8e75-fc5c72107b4a)
+[Tail behavior the lognormal and log-Laplace distributions (ChatGPT o1) 2025-03-26](https://chatgpt.com/share/67e3df1e-7694-8005-9a01-0d6e59d58dfe)
