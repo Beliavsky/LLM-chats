@@ -9,4 +9,6 @@ Links to my LLM chats
 [GARCH models with open-high-low-close data (ChatGPT o3) 2025-04-18](https://chatgpt.com/c/68026b4b-d710-8005-a8d9-78bf76bd18de)<br><br>
 [Chernoff (MGF) tail bounds and the Vysochanskiĭ–Petunin bounds for probability distributions (ChatGPT 04-mini) 2025-04-22](https://chatgpt.com/share/6807d427-8a6c-8005-a013-70e3162307de), code [here](https://github.com/Beliavsky/LLM-chats/blob/main/xvp_chernoff.f90). John D. Cook [blogged](https://www.johndcook.com/blog/2016/02/12/improving-on-chebyshevs-inequality/) about the VP bounds.<br><br>
 [Reseach on intraday futures trading strategies (ChatGPT 4.5) 2025-05-01](https://chatgpt.com/share/6813694d-fc80-8005-a458-e72745ba4c9a)<br><br>
-[Inflation-aware asset allocation (OpenAI Deep Research) 2025-05-25](https://chatgpt.com/share/6834d96d-1b4c-8005-a617-da0b55a939e9)
+[Inflation-aware asset allocation (OpenAI Deep Research) 2025-05-25](https://chatgpt.com/share/6834d96d-1b4c-8005-a617-da0b55a939e9)<br><br>
+[Applications of the `leadz` and `trailz` Fortran intrinsic functions (ChatGPT o3) 2025-05-27](https://chatgpt.com/c/6835f671-e544-8005-8829-4c4f868721e5)<br><br>
+[Applications of the `leadz` and `trailz` Fortran intrinsic functions (Grok) 2025-05-27](https://grok.com/share/bGVnYWN5_68ae4e15-b57f-40ee-b2de-0eaed32dba6b)<br><br>
