@@ -13,3 +13,4 @@ Links to my LLM chats
 [Applications of the `leadz` and `trailz` Fortran intrinsic functions (ChatGPT o3) 2025-05-27](https://chatgpt.com/c/6835f671-e544-8005-8829-4c4f868721e5)<br><br>
 [Applications of the `leadz` and `trailz` Fortran intrinsic functions (Grok) 2025-05-27](https://grok.com/share/bGVnYWN5_68ae4e15-b57f-40ee-b2de-0eaed32dba6b)<br><br>
 [Investing in global bond markets using carry (ChatGPT o3) 2025-06-23](https://chatgpt.com/share/68404109-ebdc-8005-899e-b7fc86125ffd)<br><br>
+[Tensor Decompositions for Multi-dimensional Forecasting (Grok) 2025-06-06](https://grok.com/share/bGVnYWN5_3ad4cbd3-eaf2-4ee0-9348-65935ac34956)<br><br>
