@@ -16,3 +16,4 @@ Links to my LLM chats
 [Tensor Decompositions for Multi-dimensional Forecasting (Grok) 2025-06-06](https://grok.com/share/bGVnYWN5_3ad4cbd3-eaf2-4ee0-9348-65935ac34956)<br><br>
 [How to model stationary integer time series that can be positive, zero, or negative (ChatGPT o3) 2025-06-06](https://chatgpt.com/c/684311af-ca64-8005-9a4d-aca95a2262c3)<br><br>
 [How do you test for changes in the autocorrelations of a univariate time series? (ChatGPT o3) 2025-06-06](https://chatgpt.com/share/68431535-d4e4-8005-b713-068d7684440d)<br><br>
+[Stochastic models of stock returns (ChatGPT o3) 2025-06-12](https://chatgpt.com/share/684af379-e8ac-8005-8cc0-d5fa8af72625)<br><br>
