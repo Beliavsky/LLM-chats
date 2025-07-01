@@ -18,3 +18,4 @@ Links to my LLM chats
 [How do you test for changes in the autocorrelations of a univariate time series? (ChatGPT o3) 2025-06-06](https://chatgpt.com/share/68431535-d4e4-8005-b713-068d7684440d)<br><br>
 [Stochastic models of stock returns (ChatGPT o3) 2025-06-12](https://chatgpt.com/share/684af379-e8ac-8005-8cc0-d5fa8af72625)<br><br>
 [How does the earnings yield of the S&P 500 depend on 10-year Treasury bond yields and inflation (ChatGPT o3 deep research) 2025-06-21](https://chatgpt.com/share/685726c2-46b8-8005-9816-a08833e07fb7)<br><br>
+[Machine learning approaches to predicting both the conditional means and covariances of multivariate continuous data such as asset returns (ChatGPT o3 deep research) 2025-07-01](https://chatgpt.com/share/68644747-e1a0-8005-9300-abec7a4b4b6f)<br><br>
