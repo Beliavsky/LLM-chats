@@ -23,4 +23,4 @@ Links to my LLM chats
 [Empirical performance of volatity estimators using OHLC data (ChatGPT o3 deep research) 2025-07-02](https://chatgpt.com/share/68659565-f890-8005-860b-7bc0f0bf9e97)<br><br>
 [Forward implied vol in the presence of a smile (ChatGPT o3) 2025-07-17](https://chatgpt.com/share/6878f134-0234-8005-b265-ef27ecbfe929)<br><br>
 [Forward implied vol in the presence of a smile (ChatGPT o3 deep research) 2025-07-17](https://chatgpt.com/share/6878f733-6ac8-8005-9ebc-b3aba10a5c3f)<br><br>
-[Stock price level and volatility (ChatGPT o3 deep research)](https://chatgpt.com/share/688ccce7-67f8-8005-b8cc-bd5af6751a89)<br><br>
+[Stock price level and volatility (ChatGPT o3 deep research) 2025-08-01](https://chatgpt.com/share/688ccce7-67f8-8005-b8cc-bd5af6751a89)<br><br>
