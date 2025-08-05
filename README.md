@@ -26,3 +26,4 @@ Links to my LLM chats
 [Stock price level and volatility (ChatGPT o3 deep research) 2025-08-01](https://chatgpt.com/share/688ccce7-67f8-8005-b8cc-bd5af6751a89)<br><br>
 [Option pricing with modified log Student-t distributions (ChatGPT o3 deep research) 2025-08-04](https://chatgpt.com/c/6890e41f-3710-8332-812b-7012b3e42b3b)<br><br>
 [R packages for continuous non-normal time series, including mixture models (ChatGPT o3 deep research) 2025-08-05](https://chatgpt.com/share/68925c06-3b98-8005-a610-1c07583552f7)<br><br>
+[Non-normal probability distributions to fit empirical stock market returns and option-implied distributions, with links to R and Python packages (ChatGPT o3 deep research) 2025-08-05]( https://chatgpt.com/share/68926513-ead4-8005-bb71-805f554de882)<br><br>
