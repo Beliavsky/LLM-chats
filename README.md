@@ -31,3 +31,4 @@ Links to my LLM chats
 [How the implied volatility surface of stock index options responds to changes in spot, covering the sticky strike, sticky delta, and other models (ChatGPT o3 deep research) 2025-08-06](https://chatgpt.com/share/68934d90-7914-8005-8ff9-e1ac28e7df5d)<br><br>
 [Alpha and tail risk hedging strategies in VIX futures and VIX options (ChatGPT o3 deep research) 2025-08-06](https://chatgpt.com/share/68935daf-66c8-8005-9ae0-5c49e080c004)<br><br>
 [Carry strategies in U.S. commodity futures (ChatGPT o3 deep research) 2025-08-06](https://chatgpt.com/c/68935eb9-cf88-832b-8282-c6d1ac6941dd)<br><br>
+[News impact curves of asymmetric GARCH models of S&P 500 returns (ChatGPT o3 deep research) 2025-08-06](https://chatgpt.com/c/689364df-c288-832f-911d-f7b669848a2b)<br><br>
