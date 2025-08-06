@@ -28,3 +28,4 @@ Links to my LLM chats
 [R packages for continuous non-normal time series, including mixture models (ChatGPT o3 deep research) 2025-08-05](https://chatgpt.com/share/68925c06-3b98-8005-a610-1c07583552f7)<br><br>
 [Non-normal probability distributions to fit empirical stock market returns and option-implied distributions, with links to R and Python packages (ChatGPT o3 deep research) 2025-08-05]( https://chatgpt.com/share/68926513-ead4-8005-bb71-805f554de882)<br><br>
 [Software to backtest option strategies (ChatGPT o3 deep research) 2025-08-06](https://chatgpt.com/c/6893408a-4364-832f-bd80-912a8c858355)<br><br>
+[How the implied volatility surface of stock index options responds to changes in spot, covering the sticky strike, sticky delta, and other models (ChatGPT o3 deep research) 2025-08-06](https://chatgpt.com/share/68934d90-7914-8005-8ff9-e1ac28e7df5d)<br><br>
