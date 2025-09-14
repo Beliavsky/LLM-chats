@@ -44,3 +44,4 @@ Links to my LLM chats
 [Classical GARCH vs. Dynamic Conditional Score (DCS) or Generalized Autoregressive Score (GAS) models (ChatGPT 5 deep research 2025-08-16)](https://chatgpt.com/share/68a11d0c-93e4-8005-80aa-ee05a57c4126). The equations of the two types of models are given [here](https://chatgpt.com/share/68a11d40-8e38-8005-a00c-c957c5c330c1)<br><br>
 [Combining alpha signals with different horizons (ChatGPT deep research 2025-08-19)](https://chatgpt.com/share/68a4dbad-59b8-8005-a0ca-f8a71c2ecad9)<br><br>
 [Function that is quadratic in the center and linear in the tails (ChatGPT 5 2025-09-08)](https://chatgpt.com/share/68bee2e1-718c-8005-860f-1fe8f38a93bc)<br><br>
+[Probability distributions: hyperbolic secant, logistic, Laplace, and others, with log versions (ChatGPT 5 2025-09-14)](https://chatgpt.com/share/68c71970-e720-8005-8ca4-43b465c707a3)<br><br>
