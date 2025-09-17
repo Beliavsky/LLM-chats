@@ -46,3 +46,4 @@ Links to my LLM chats
 [Function that is quadratic in the center and linear in the tails (ChatGPT 5 2025-09-08)](https://chatgpt.com/share/68bee2e1-718c-8005-860f-1fe8f38a93bc)<br><br>
 [Probability distributions: hyperbolic secant, logistic, Laplace, and others, with log versions (ChatGPT 5 2025-09-14)](https://chatgpt.com/share/68c71970-e720-8005-8ca4-43b465c707a3)<br><br>
 [Option pricing with log-sech, log-logistic, and log-Champernowne distributions (ChatGPT 5 2025-09-15)](https://chatgpt.com/share/68c71970-e720-8005-8ca4-43b465c707a3)<br><br>
+[Option pricing with the log generalized hyperbolic distribution (ChatGPT 5 2025-09-17)](https://chatgpt.com/c/68cb26fe-aff8-832f-8574-f8b7cd658d95)<br><br>
