@@ -50,3 +50,4 @@ Links to my LLM chats
 [Option pricing with the log generalized hyperbolic distribution (ChatGPT 5 2025-09-17)](https://chatgpt.com/c/68cb26fe-aff8-832f-8574-f8b7cd658d95)<br><br>
 [Generalized Student t distribution of McDonald and Newey (ChatGPT 5 2025-09-25)](https://chatgpt.com/share/68d5742a-88c8-8005-a153-37772dc85fed)<br><br>
 [Indexed annuities (ChatGPT 5 2025-10-01)](https://chatgpt.com/share/68dd06a5-bb48-8005-993f-abde56b39f03)<br><br>
+[Volatility risk premium as a directional signal in stock indices and individual stocks (ChatGPT 5 2025-10-01)](https://chatgpt.com/share/68dd4749-9d2c-8005-947f-9ac75dd6c884)<br><br>
