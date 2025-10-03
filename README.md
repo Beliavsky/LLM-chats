@@ -55,3 +55,4 @@ Links to my LLM chats
 [Black-Scholes formula with a general distribution (ChatGPT 5 2025-10-02)](https://chatgpt.com/share/68df24d6-a630-8005-aa60-e15e0016b7c0)<br><br>
 [Which financial time series can be modeled as Fractional Brownian Motion (ChatGPT 5 2025-10-03)](https://chatgpt.com/share/68dfd4d2-3c3c-8005-bc2e-112e76fabf9e)<br><br>
 [Smoothly tapering the left tail of the normal and other distributions (ChatGPT 5 2025-10-03)](https://chatgpt.com/share/68e039f2-058c-8005-99be-7cca1acaaeb6)<br><br>
+[Continuous positive distributions with an unbounded right tail (ChatGP5 2025-10-03)](https://chatgpt.com/share/68e057ae-14dc-8005-8586-ba52886be47c)<br><br>
