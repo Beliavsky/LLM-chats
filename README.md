@@ -52,3 +52,4 @@ Links to my LLM chats
 [Generalized Student t distribution of McDonald and Newey (ChatGPT 5 2025-09-25)](https://chatgpt.com/share/68d5742a-88c8-8005-a153-37772dc85fed)<br><br>
 [Indexed annuities (ChatGPT 5 2025-10-01)](https://chatgpt.com/share/68dd06a5-bb48-8005-993f-abde56b39f03)<br><br>
 [Volatility risk premium as a directional signal in stock indices and individual stocks (ChatGPT 5 2025-10-01)](https://chatgpt.com/share/68dd4749-9d2c-8005-947f-9ac75dd6c884)<br><br>
+[Black-Scholes formula with a general distribution (ChatGPT 5 2025-10-02)](https://chatgpt.com/share/68df24d6-a630-8005-aa60-e15e0016b7c0)<br><br>
