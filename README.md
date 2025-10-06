@@ -57,3 +57,4 @@ Links to my LLM chats
 [Smoothly tapering the left tail of the normal and other distributions (ChatGPT 5 2025-10-03)](https://chatgpt.com/share/68e039f2-058c-8005-99be-7cca1acaaeb6)<br><br>
 [Continuous positive distributions with an unbounded right tail (ChatGPT 5 2025-10-03)](https://chatgpt.com/share/68e057ae-14dc-8005-8586-ba52886be47c)<br><br>
 [Asset growth anomaly (ChatGPT 5 2025-10-06)](https://chatgpt.com/share/68e3c339-d780-8005-bb81-6af6a3736a18)<br><br>
+[Exponentially weighted moving average (EWMA/RiskMetrics) volatility forecasting (ChatGPT 5 2025-10-06)](https://chatgpt.com/share/68e42603-50b4-8005-9c45-480b7ed3f929)<br><br>
