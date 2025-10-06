@@ -56,3 +56,4 @@ Links to my LLM chats
 [Which financial time series can be modeled as Fractional Brownian Motion (ChatGPT 5 2025-10-03)](https://chatgpt.com/share/68dfd4d2-3c3c-8005-bc2e-112e76fabf9e)<br><br>
 [Smoothly tapering the left tail of the normal and other distributions (ChatGPT 5 2025-10-03)](https://chatgpt.com/share/68e039f2-058c-8005-99be-7cca1acaaeb6)<br><br>
 [Continuous positive distributions with an unbounded right tail (ChatGP5 2025-10-03)](https://chatgpt.com/share/68e057ae-14dc-8005-8586-ba52886be47c)<br><br>
+[Asset growth anomaly (ChatGPT 5 2025-10-06)](https://chatgpt.com/share/68e3c339-d780-8005-bb81-6af6a3736a18)<br><br>
