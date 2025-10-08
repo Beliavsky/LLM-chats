@@ -59,3 +59,4 @@ Links to my LLM chats
 [Exponentially weighted moving average (EWMA/RiskMetrics) volatility forecasting (ChatGPT 5 2025-10-06)](https://chatgpt.com/share/68e42603-50b4-8005-9c45-480b7ed3f929)<br><br>
 [Johnson SU distribution (ChatGPT 5 2025-10-06)](https://chatgpt.com/share/68e44053-d458-8005-a889-fcb8deeafcc0)<br><br>
 [Distributions that are transformations of a single normal variate (ChatGPT 5 2025-10-06)](https://chatgpt.com/share/68e44ff1-d1a4-8005-92a2-887c007ab63c)<br><br>
+[Transformation and symmetrization to get rid of skew (ChatGPT 5 2025-10-08)](https://chatgpt.com/share/68e67665-d8d4-8005-a1d4-2c0e727defca)<br><br>
