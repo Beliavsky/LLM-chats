@@ -25,7 +25,8 @@ Links to my LLM chats
 [Forward implied vol in the presence of a smile (ChatGPT o3) 2025-07-17](https://chatgpt.com/share/6878f134-0234-8005-b265-ef27ecbfe929)<br><br>
 [Forward implied vol in the presence of a smile (ChatGPT o3 deep research) 2025-07-17](https://chatgpt.com/share/6878f733-6ac8-8005-9ebc-b3aba10a5c3f)<br><br>
 [Stock price level and volatility (ChatGPT o3 deep research) 2025-08-01](https://chatgpt.com/share/688ccce7-67f8-8005-b8cc-bd5af6751a89)<br><br>
-[Option pricing with modified log Student-t distributions (ChatGPT o3 deep research) 2025-08-04](https://chatgpt.com/c/6890e41f-3710-8332-812b-7012b3e42b3b)<br><br>
+[Option pricing with modified log Student's t distributions (ChatGPT o3 deep research) 2025-08-04](https://chatgpt.com/c/6890e41f-3710-8332-812b-7012b3e42b3b)<br><br>
+[Tempered Student's t distribution (ChatGPT 5 2025-10-09)](https://chatgpt.com/c/68e8191e-3d2c-832f-99cb-917077622fdc)<br><br>
 [R packages for continuous non-normal time series, including mixture models (ChatGPT o3 deep research) 2025-08-05](https://chatgpt.com/share/68925c06-3b98-8005-a610-1c07583552f7)<br><br>
 [Mixture autoregressive models (ChatGPT 5 deep research) 2025-08-18](https://chatgpt.com/share/68a3943d-1c7c-8005-92c0-3eb307eb8bde)<br><br>
 [Non-normal probability distributions to fit empirical stock market returns and option-implied distributions, with links to R and Python packages (ChatGPT o3 deep research) 2025-08-05]( https://chatgpt.com/share/68926513-ead4-8005-bb71-805f554de882)<br><br>
