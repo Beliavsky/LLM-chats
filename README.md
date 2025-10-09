@@ -60,3 +60,4 @@ Links to my LLM chats
 [Johnson SU distribution (ChatGPT 5 2025-10-06)](https://chatgpt.com/share/68e44053-d458-8005-a889-fcb8deeafcc0)<br><br>
 [Distributions that are transformations of a single normal variate (ChatGPT 5 2025-10-06)](https://chatgpt.com/share/68e44ff1-d1a4-8005-92a2-887c007ab63c)<br><br>
 [Transformation and symmetrization to get rid of skew (ChatGPT 5 2025-10-08)](https://chatgpt.com/share/68e67665-d8d4-8005-a1d4-2c0e727defca)<br><br>
+[Are multivariate return distributions elliptical? (ChatGPT 5 2025-10-08)](https://chatgpt.com/share/68e70f6c-0a80-8005-87ad-b2fb3f4402f1)<br><br>
