@@ -64,3 +64,4 @@ Links to my LLM chats
 [Measures of statistical skewness (ChatGPT 5 2025-10-10)](https://chatgpt.com/share/68e95b7e-51b0-8005-ab9d-e7ca6b540f31)<br><br>
 [Are multivariate return distributions elliptical? (ChatGPT 5 2025-10-08)](https://chatgpt.com/share/68e70f6c-0a80-8005-87ad-b2fb3f4402f1)<br><br>
 [Option positioning and future returns and volatility (ChatGPT 5 2025-10-08)](https://chatgpt.com/share/68e999e9-0280-8005-9468-d324d7badcae)<br><br>
+[Non-linear time series models building on Doyne Farmer's work (ChatGPT 5 2025-10-14)](https://chatgpt.com/share/68ee5298-37a0-8005-81e8-f4251bc5d319)<br><br>
