@@ -68,3 +68,4 @@ Links to my LLM chats
 [Non-linear time series models building on Doyne Farmer's local linear models (ChatGPT 5 2025-10-14)](https://chatgpt.com/share/68ee5298-37a0-8005-81e8-f4251bc5d319)<br>
 also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-8005-ad12-c7b3446c7ad4)<br><br>
 [International small-cap and all-cap value stock funds (ChatGPT 5 2025-10-14)](https://chatgpt.com/share/68ee55fa-ab34-8005-a003-bb98d2f8b1ec)<br><br>
+[Multivariate normal mixture distributions for stock returns, and extensions to model changing covariance (ChatGPT 5 2025-10-15)](https://chatgpt.com/share/68effed9-43c4-8005-b1d2-1587b71dd3b1)<br><br>
