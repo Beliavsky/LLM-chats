@@ -69,3 +69,4 @@ Links to my LLM chats
 also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-8005-ad12-c7b3446c7ad4)<br><br>
 [International small-cap and all-cap value stock funds (ChatGPT 5 2025-10-14)](https://chatgpt.com/share/68ee55fa-ab34-8005-a003-bb98d2f8b1ec)<br><br>
 [Multivariate normal mixture distributions for stock returns, and extensions to model changing covariance (ChatGPT 5 2025-10-15)](https://chatgpt.com/share/68effed9-43c4-8005-b1d2-1587b71dd3b1)<br><br>
+[Filtering stocks to use in momentum and mean-reversion strategies (ChatGPT 5 deep research 2025-10-18)](https://chatgpt.com/share/68f3b96e-5694-8005-9b9c-e72a1448cfdf); [also](https://chatgpt.com/share/68f3bcbe-e98c-8005-8138-02bf1e1af1c9)<br><br>
