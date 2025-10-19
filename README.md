@@ -72,4 +72,5 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Filtering stocks to use in momentum and mean-reversion strategies (ChatGPT 5 deep research 2025-10-18)](https://chatgpt.com/share/68f3b96e-5694-8005-9b9c-e72a1448cfdf); [also](https://chatgpt.com/share/68f3bcbe-e98c-8005-8138-02bf1e1af1c9)<br><br>
 [Option pricing using intraday realized volatility (ChatGPT 5 deep research 2025-10-18)](https://chatgpt.com/share/68f3fef6-c360-8005-a46b-7c7a1ac986fe)<br><br>
 [Multi-step ahead predictive distribution of asset prices using GARCH and other methods (ChatGPT 5 deep research 2025-10-19)](https://chatgpt.com/share/68f4f5aa-bc54-8005-a219-3023da97b0b2)<br><br>
+[Theoretical multi-step return distributions for GARCH and log stochastic volatility models (ChatGPT deep research 2025-10-19)](https://chatgpt.com/share/68f50416-eae0-8005-984d-660440cc7805)<br><br>
 
