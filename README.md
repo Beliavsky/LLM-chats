@@ -75,6 +75,6 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Theoretical multi-step return distributions for GARCH and log stochastic volatility models (ChatGPT 2025-10-19)](https://chatgpt.com/share/68f50416-eae0-8005-984d-660440cc7805)<br><br>
 [FIGARCH (ChatGPT 5 deep research 2025-10-20)](https://chatgpt.com/share/68f62bff-4f24-8005-bc9e-fde9da30583c)<br><br>
 [Random walk stochastic volatility models (ChatGPT 5 2025-10-20)](https://chatgpt.com/share/68f64318-f400-8005-a123-939176a84077)<br><br>
-[Multivariate GARCH (ChatGPT 5 2025-10-20)](https://chatgpt.com/share/68f6623a-135c-8005-9c80-ebb57d35b75b)
+[Multivariate GARCH (ChatGPT 5 2025-10-20)](https://chatgpt.com/share/68f6623a-135c-8005-9c80-ebb57d35b75b)<br><br>
 [Riskmetrics forecasts of volatilities and correlation with mean reversion, and asymmetric multivariate GARCH models (ChatGPT 5 2025-10-20)](https://chatgpt.com/share/68f66c48-88a0-8005-a6ae-f8c761399201)<br><br>
 
