@@ -74,4 +74,5 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Multi-step ahead predictive distribution of asset prices using GARCH and other methods (ChatGPT 5 deep research 2025-10-19)](https://chatgpt.com/share/68f4f5aa-bc54-8005-a219-3023da97b0b2)<br><br>
 [Theoretical multi-step return distributions for GARCH and log stochastic volatility models (ChatGPT 2025-10-19)](https://chatgpt.com/share/68f50416-eae0-8005-984d-660440cc7805)<br><br>
 [FIGARCH (ChatGPT 5 deep research 2025-10-20)](https://chatgpt.com/share/68f62bff-4f24-8005-bc9e-fde9da30583c)<br><br>
+[Random walk stochastic volatility models (ChatGPT 5 2025-10-20)](https://chatgpt.com/share/68f64318-f400-8005-a123-939176a84077)<br><br>
 
