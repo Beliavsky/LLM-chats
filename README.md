@@ -79,5 +79,6 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Riskmetrics forecasts of volatilities and correlation with mean reversion, and asymmetric multivariate GARCH models (ChatGPT 5 2025-10-20)](https://chatgpt.com/share/68f66c48-88a0-8005-a6ae-f8c761399201)<br><br>
 [Arithmetic Brownian motion to model stocks and stock indices (ChatGPT 5 deep research 2025-10-22)](https://chatgpt.com/share/68f8cc0f-5f3c-8005-8ab8-ead5ad4b7ca8)<br><br>
 [Distribution of sample correlations, covariances, and covariances of normally distributed data (ChatGPT 5 2025-10-22)](https://chatgpt.com/share/68f8deab-6650-8005-b9fe-a435cad331e5)<br><br>
-[Cointegration of gold and silver prices and futures trading strategies to exploit cointegration (ChatGPT 2025-1022)](https://chatgpt.com/share/68f8dfb3-b030-8005-b614-b1b30e553ad5)<br><br>
+[Cointegration of gold and silver prices and futures trading strategies to exploit cointegration (ChatGPT 2025-10-22)](https://chatgpt.com/share/68f8dfb3-b030-8005-b614-b1b30e553ad5)<br><br>
+[Cointegration of commodity futures prices (ChatGPT 2025-10-22)](https://chatgpt.com/share/68f9067f-3830-8005-b9b5-5202d2a8370d)<br><br>
 
