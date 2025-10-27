@@ -82,4 +82,5 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Distribution of sample correlations, covariances, and covariances of normally distributed data (ChatGPT 5 2025-10-22)](https://chatgpt.com/share/68f8deab-6650-8005-b9fe-a435cad331e5)<br><br>
 [Cointegration of gold and silver prices and futures trading strategies to exploit cointegration (ChatGPT 2025-10-22)](https://chatgpt.com/share/68f8dfb3-b030-8005-b614-b1b30e553ad5)<br><br>
 [Cointegration of commodity futures prices (ChatGPT 2025-10-22)](https://chatgpt.com/share/68f9067f-3830-8005-b9b5-5202d2a8370d)<br><br>
+[Optimal portfolio rebalancing with proportional transaction costs (ChatGPT 5 2025-10-27)](https://chatgpt.com/share/68ffd641-fc78-8005-9191-029bf5fbe886)<br><br>
 
