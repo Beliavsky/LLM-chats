@@ -85,4 +85,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Cointegration of commodity futures prices (ChatGPT 2025-10-22)](https://chatgpt.com/share/68f9067f-3830-8005-b9b5-5202d2a8370d)<br><br>
 [Cointegration of implied volatility and realized volatility (ChatGPT 2025-10-27)](https://chatgpt.com/share/68fff45d-7c24-8005-a1d5-0acf5c573bb6)<br><br>
 [Optimal portfolio rebalancing with proportional transaction costs (ChatGPT 5 2025-10-27)](https://chatgpt.com/share/68ffd641-fc78-8005-9191-029bf5fbe886)<br><br>
-
+[Hawkes process for asset returns (ChatGPT 5 2025-10-28)](https://chatgpt.com/share/6900dd30-8ee8-8005-9af0-e6d54785a820)<br><br>
