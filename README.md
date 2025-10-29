@@ -87,3 +87,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Optimal portfolio rebalancing with proportional transaction costs (ChatGPT 5 2025-10-27)](https://chatgpt.com/share/68ffd641-fc78-8005-9191-029bf5fbe886)<br><br>
 [Hawkes process for asset returns (ChatGPT 5 2025-10-28)](https://chatgpt.com/share/6900dd30-8ee8-8005-9af0-e6d54785a820)<br><br>
 [Cryptocurrency strategies (ChatGPT 2025-10-28)](https://chatgpt.com/share/6900e977-3ab8-8005-9636-49ebebcd35d4)<br><br>
+[Heston-Nandi GARCH model (ChatGPT 5 2025-10-29)](https://chatgpt.com/share/6901fd50-1000-8005-9813-c96dc571aeed)<br><br> 
