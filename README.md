@@ -90,3 +90,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Heston-Nandi GARCH model (ChatGPT 5 2025-10-29)](https://chatgpt.com/share/6901fd50-1000-8005-9813-c96dc571aeed)<br><br>
 [GARCH option pricing (ChatGPT 5 2025-10-29)](https://chatgpt.com/share/6902022b-b834-8005-82ec-ac448a9173af)<br><br>
 [Edgeworth expansion probability density (ChatGPT 5 2025-10-29)](https://chatgpt.com/share/69021378-0990-8005-815e-add883627875)<br><br>
+[Distribution of index log returns when underlying stock log returns are normal (ChatGPT 5 2025-10-29)](https://chatgpt.com/share/69021be8-8b1c-8005-bfec-e97b95c45d74)<br><br>
