@@ -94,3 +94,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Distribution of index log returns when underlying stock log returns are normal (ChatGPT 5 2025-10-29)](https://chatgpt.com/share/69021be8-8b1c-8005-bfec-e97b95c45d74)<br><br>
 [Distribution of portfolio returns when assets returns follow a multivariate Student's t distribution (ChatGPT 5 2025-10-30)](https://chatgpt.com/share/6903a67d-c1bc-8005-9b78-42120e24f0f0)<br><br>
 [Extracting data from a Bank of America (BoA) stock report (ChatGPT 5 2025-10-31)](https://chatgpt.com/share/6905190a-c0cc-8005-9bb5-278556c231e8)<br><br>
+[Yield curve and U.S. stock market returns (ChatGPT 5 2025-11-02)](https://chatgpt.com/share/69078409-6a94-8005-919d-c72614c5dadc)<br><br>
