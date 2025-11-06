@@ -99,3 +99,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Measures of call skew and put skew and how skew varies with option tenor (ChatGPT 5 2025-11-03)](https://chatgpt.com/share/6908a806-6b6c-8005-a48e-88bb9388baf6)<br><br>
 [Python packages to get fundamental stock data from Yahoo Finance (ChatGPT 5 2025-11-04)](https://chatgpt.com/share/690a30b0-64cc-8005-be34-2a06a5be56a7)<br><br>
 [Pricing American options (ChatGPT 5 2025-11-06)](https://chatgpt.com/share/690cdbf4-35d4-8005-9bb4-9bb906ce5d62)<br><br>
+[Option hedging with daily return autocorrelations (ChatGPT 5 2025-11-06)](https://chatgpt.com/share/690cdefd-77a8-8005-b5e8-97969b401ac1)<br><br>
