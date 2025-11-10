@@ -106,3 +106,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Vector Autogressive (VAR) and other models for high-dimensional multivariate time series (ChatGPT 5 2025-11-10)](https://chatgpt.com/share/6911d87c-d4ac-8005-ab62-a901064415b9)<br><br>
 [Forecasting temporal aggregates of time series (ChatGPT 5 2025-11-10)](https://chatgpt.com/share/6911dd61-a9d0-8005-af18-4c0652c8507f)<br><br>
 [Stochastic volatility models with non-normal innovations (ChatGPT 5 2025-11-10)](https://chatgpt.com/share/6911e70e-4d14-8005-980a-7bb0e10b2429)<br><br>
+[Implications of asymmetric marginal distributions of a multivariate distribution (ChatGPT 5 2025-11-10)](https://chatgpt.com/share/69124ed2-8154-8005-b2ff-5caf3822c41a)<br><br>
