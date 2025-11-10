@@ -105,3 +105,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Volatility forecast metrics (ChatGPT 5 2025-11-09)](https://chatgpt.com/share/69113bd1-8fcc-8005-81f1-785ea05ddc28)<br><br>
 [Vector Autogressive (VAR) and other models for high-dimensional multivariate time series (ChatGPT 5 2025-11-10)](https://chatgpt.com/share/6911d87c-d4ac-8005-ab62-a901064415b9)<br><br>
 [Forecasting temporal aggregates of time series (ChatGPT 5 2025-11-10)](https://chatgpt.com/share/6911dd61-a9d0-8005-af18-4c0652c8507f)<br><br>
+[Stochastic volatility models with non-normal innovations (ChatGPT 5 2025-11-10)](https://chatgpt.com/share/6911e70e-4d14-8005-980a-7bb0e10b2429)<br><br>
