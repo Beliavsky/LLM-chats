@@ -103,3 +103,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Optimal option portfolio (ChatGPT 5 2025-11-06)](https://chatgpt.com/share/690ce941-4cac-8005-b85d-73bc97a70c80)<br><br>
 [Stock price falls on ex-dividend dates (ChatGPT 5 2025-11-06)](https://chatgpt.com/share/690d0a34-db38-8005-bb6d-5851bebb4f6a)<br><br>
 [Volatility forecast metrics (ChatGPT 5 2025-11-09)](https://chatgpt.com/share/69113bd1-8fcc-8005-81f1-785ea05ddc28)<br><br>
+[Vector Autogressive (VAR) and other models for high-dimensional multivariate time series (ChatGPT 5 2025-11-10)](https://chatgpt.com/share/6911d87c-d4ac-8005-ab62-a901064415b9)<br><br>
