@@ -108,3 +108,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Stochastic volatility models with non-normal innovations (ChatGPT 5 2025-11-10)](https://chatgpt.com/share/6911e70e-4d14-8005-980a-7bb0e10b2429)<br><br>
 [Implications of asymmetric marginal distributions of a multivariate distribution (ChatGPT 5 2025-11-10)](https://chatgpt.com/share/69124ed2-8154-8005-b2ff-5caf3822c41a)<br><br>
 [Exponential smoothing combinations (ChatGPT 2025-11-11)](https://chatgpt.com/share/69134095-163c-8005-9354-08b23b0ae01c)<br><br>
+[Volatility spillovers (ChatGPT 2025-11-11)](https://chatgpt.com/share/691348b7-3940-8005-951f-305860e6c335)<br><br>
