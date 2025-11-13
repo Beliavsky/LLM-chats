@@ -110,3 +110,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Exponential smoothing combinations (ChatGPT 2025-11-11)](https://chatgpt.com/share/69134095-163c-8005-9354-08b23b0ae01c)<br><br>
 [Volatility spillovers (ChatGPT 2025-11-11)](https://chatgpt.com/share/691348b7-3940-8005-951f-305860e6c335)<br><br>
 [Adjusting an element of a correlation matrix (ChatGPT 2025-11-12)](https://chatgpt.com/share/69151949-e8ec-8005-9b04-a14f5417eea6)<br><br>
+[Deferred vs. immediate income annuity (ChatGPT 5.1 2025-11-12)](https://chatgpt.com/share/691524ea-4ffc-8005-96dd-93f4a9d1c793)<br><br>
