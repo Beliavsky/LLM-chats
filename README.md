@@ -113,3 +113,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Deferred vs. immediate income annuity (ChatGPT 5.1 2025-11-12)](https://chatgpt.com/share/691524ea-4ffc-8005-96dd-93f4a9d1c793)<br><br>
 [Binomial and trinomial trees for pricing options (ChatGGPT 5.1 2025-11-16)](https://chatgpt.com/share/691a17bb-e768-8005-baf9-c3dc93db8622) and [here](https://chatgpt.com/share/690cdbf5-02cc-8005-be18-65cd71a9ae1e)<br><br>
 [GARCH option pricing using trees (ChatGPT 2025-11-16)](https://chatgpt.com/share/691a4aef-33ac-8005-a785-1ab558774146)<br><br>
+[Portfolio optimization with non-normal returns and general utility functions (ChatGPT 5.1 2025-11-18)](https://chatgpt.com/share/691cceda-3660-8005-b947-0fa92f2c5cc4)<br><br>
