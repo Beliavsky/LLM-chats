@@ -116,3 +116,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Portfolio optimization with non-normal returns and general utility functions (ChatGPT 5.1 2025-11-18)](https://chatgpt.com/share/691cceda-3660-8005-b947-0fa92f2c5cc4)<br><br>
 [Software for pricing options using the implied tree local volatility method of Derman and Kani (ChatGPT 5.1 2025-11-20)](https://chatgpt.com/share/691f40d6-87b8-8005-ad46-6939ff5a25c8)<br>[also here](https://chatgpt.com/share/691f42d1-d318-8005-9b32-0a1d9d77afe4)<br><br>
 [Loss functions for volatility forecasts (ChatGPT 5.1 2025-11-22)](https://chatgpt.com/share/69219b78-8a70-8005-b049-2bec41da79c4)<br><br>
+[Jurik Moving Average (JMA) and other smoothing methods for trend-following (ChatGPT 5.1 2025-11-24)](https://chatgpt.com/share/69247171-2ed4-8005-943f-33c5fa87b121)<br><br>
