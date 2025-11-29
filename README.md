@@ -118,6 +118,6 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Loss functions for volatility forecasts (ChatGPT 5.1 2025-11-22)](https://chatgpt.com/share/69219b78-8a70-8005-b049-2bec41da79c4)<br><br>
 [Jurik Moving Average (JMA) and other smoothing methods for trend-following (ChatGPT 5.1 2025-11-24)](https://chatgpt.com/share/69247171-2ed4-8005-943f-33c5fa87b121)<br><br>
 [Volatility cone with GARCH (ChatGPT 5.1 2025-11-28)](https://chatgpt.com/share/6929a857-ccb8-8005-8fe4-54a7d0c7df0a)<br><br>
-[Portfolio optimization under multivariate Student t, finite mixtures of normals or Student t returns, or skewed Student t returns (ChatGPT 5.1 2025-11-28)](https://chatgpt.com/share/6929d895-f6f4-8005-91e6-5cf9531daa5c)<br><br>
+[Portfolio optimization under multivariate Student t, finite mixtures of normals or Student t returns, skewed Student t returns, and using mean-variance-skew-kurtosis (ChatGPT 5.1 2025-11-29)](https://chatgpt.com/share/6929d895-f6f4-8005-91e6-5cf9531daa5c)<br><br>
 [Bitcoin options and volatility (ChatGPT 5.1 2025-11-28)](https://chatgpt.com/share/692a14de-0894-8005-babd-065540db00e4)<br><br>
 [Bivariate Student t distribution (ChatGPT 5.1 2025-11-29)](https://chatgpt.com/share/692b166d-1520-8005-9fe4-dca781dd54a5)<br><br>
