@@ -52,7 +52,7 @@ Links to my LLM chats
 [Option pricing with log-sech, log-logistic, and log-Champernowne distributions (ChatGPT 5 2025-09-15)](https://chatgpt.com/share/68c71970-e720-8005-8ca4-43b465c707a3)<br><br>
 [Dagum and generalized logistic distributions (ChatGPT 5 2025-10-01)](https://chatgpt.com/share/68dd78de-9af8-8005-9399-610bcc326728)<br><br>
 [Option pricing with the log generalized hyperbolic distribution (ChatGPT 5 2025-09-17)](https://chatgpt.com/c/68cb26fe-aff8-832f-8574-f8b7cd658d95)<br><br>
-[Generalized Student t distribution of McDonald and Newey (ChatGPT 5 2025-09-25)](https://chatgpt.com/share/68d5742a-88c8-8005-a153-37772dc85fed)<br><br>
+[Generalized Student t distribution of McDonald and Newey (ChatGPT 5.1 2025-12-01)](https://chatgpt.com/share/692de098-db10-8005-868c-774336b0949f)<br><br>
 [Indexed annuities (ChatGPT 5 2025-10-01)](https://chatgpt.com/share/68dd06a5-bb48-8005-993f-abde56b39f03)<br><br>
 [Volatility risk premium as a directional signal in stock indices and individual stocks (ChatGPT 5 2025-10-01)](https://chatgpt.com/share/68dd4749-9d2c-8005-947f-9ac75dd6c884)<br><br>
 [Black-Scholes formula with a general distribution (ChatGPT 5 2025-10-02)](https://chatgpt.com/share/68df24d6-a630-8005-aa60-e15e0016b7c0)<br><br>
