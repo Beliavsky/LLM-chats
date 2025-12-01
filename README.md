@@ -122,3 +122,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Bitcoin options and volatility (ChatGPT 5.1 2025-11-28)](https://chatgpt.com/share/692a14de-0894-8005-babd-065540db00e4)<br><br>
 [Bivariate Student t distribution (ChatGPT 5.1 2025-11-29)](https://chatgpt.com/share/692b166d-1520-8005-9fe4-dca781dd54a5)<br><br>
 [Multivariate skewed student t distributions (ChatGPT 5.1 2025-11-30)](https://chatgpt.com/share/692c6634-26b8-8005-8e89-6ccebb9e87e7)<br><br>
+[Testing the assumption of equal kurtosis of the multivariate Student t distribution (ChatGPT 5.1 2025-11-30)](https://chatgpt.com/share/692ddcb3-51f8-8005-9264-8fd08f674100)<br><br>
