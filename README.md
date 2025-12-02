@@ -124,3 +124,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Multivariate skewed student t distributions (ChatGPT 5.1 2025-11-30)](https://chatgpt.com/share/692c6634-26b8-8005-8e89-6ccebb9e87e7)<br><br>
 [Testing the assumption of equal kurtosis of the multivariate Student t distribution (ChatGPT 5.1 2025-11-30)](https://chatgpt.com/share/692ddcb3-51f8-8005-9264-8fd08f674100)<br><br>
 [Downward bias of historical volatility estimated from square root of variance (ChatGPT 5.1 2025-12-02)](https://chatgpt.com/share/692f0681-b554-8005-bd6f-cd5e8a22945b)<br><br>
+[Lp norm (absolute, squared, and other powers) estimation of standard deviation for normal, Student's t, and other distributions (ChatGPT 5.1 2025-12-02)](https://chatgpt.com/share/692f2860-c710-8005-b6fa-b55f3a722c57)<br><br>
