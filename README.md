@@ -126,3 +126,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Downward bias of historical volatility estimated from square root of variance (ChatGPT 5.1 2025-12-02)](https://chatgpt.com/share/692f0681-b554-8005-bd6f-cd5e8a22945b)<br><br>
 [Lp norm (absolute, squared, and other powers) and robust estimation of standard deviation for normal, Student's t, and other distributions (ChatGPT 5.1 2025-12-02)](https://chatgpt.com/share/69304e00-3920-8005-b7b2-4caae9e24756)<br><br>
 [Robust estimation of covariances (ChatGPT 5.1 2025-12-02)](https://chatgpt.com/share/692f3b7d-cb6c-8005-b771-bda88bea6ce4)<br><br>
+[Size-weighted mid-market price (market microstructure) (ChatGPT 5.1 2025-12-04)](https://chatgpt.com/share/6931bc75-9300-8005-acd3-1b9d8fc61b56)<br><br>
