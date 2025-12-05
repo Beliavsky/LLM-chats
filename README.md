@@ -129,3 +129,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Robust estimation of covariances (ChatGPT 5.1 2025-12-02)](https://chatgpt.com/share/692f3b7d-cb6c-8005-b771-bda88bea6ce4)<br><br>
 [Size-weighted mid-market price (market microstructure) (ChatGPT 5.1 2025-12-04)](https://chatgpt.com/share/6931bc75-9300-8005-acd3-1b9d8fc61b56)<br><br>
 [Calculation of realized volatility from intraday and overnight returns (ChatGPT 5.1 2025-12-04)](https://chatgpt.com/share/6931f4a1-b3cc-8005-9d04-5baad6a3cd26)<br><br>
+[Option calendar spread strategies (ChatGPT 2025-12-05)](https://chatgpt.com/share/69334bf5-e274-8005-b09d-f397026565a2)<br><br>
