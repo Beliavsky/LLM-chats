@@ -133,4 +133,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Student t copula vs. multivariate Student t to model return distribution (ChatGPT 2025-12-05)](https://chatgpt.com/share/69336fbb-2c38-8005-9380-5c5d0f2a257d)<br><br>
 [Correlation of squared deviations for bivariate Student t distribution (ChatGPT 5.1 2025-12-07)](https://chatgpt.com/share/6935d6ba-4248-8005-a7f5-e76557289134)<br><br>
 [Correlations of squared deviations for the bivariate Laplace, generalized error, and other elliptical distributions (ChatGPT 5.1 2025-12-07)](https://chatgpt.com/share/6935e06c-b4f0-8005-9e44-dd3b0c056159)<br><br>
-[Multivariate hyperbolic distribution (ChatGPT 5.1 2025-12-07)](https://chatgpt.com/share/6935e402-4fe8-8005-8d02-7f75e23b0ac9)<br><br>
+[Multivariate hyperbolic distribution for asset returns (ChatGPT 5.1 2025-12-07)](https://chatgpt.com/share/6935e402-4fe8-8005-8d02-7f75e23b0ac9)<br><br>
