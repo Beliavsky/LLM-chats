@@ -131,4 +131,5 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Calculation of realized volatility from intraday and overnight returns (ChatGPT 5.1 2025-12-04)](https://chatgpt.com/share/6931f4a1-b3cc-8005-9d04-5baad6a3cd26)<br><br>
 [Option calendar spread strategies (ChatGPT 2025-12-05)](https://chatgpt.com/share/69334bf5-e274-8005-b09d-f397026565a2)<br><br>
 [Student t copula vs. multivariate Student t to model return distribution (ChatGPT 2025-12-05)](https://chatgpt.com/share/69336fbb-2c38-8005-9380-5c5d0f2a257d)<br><br>
-[Correlation of squared deviations for multivariate Student t distribution (ChatGPT 5.1 2025-12-07)](https://chatgpt.com/share/6935d6ba-4248-8005-a7f5-e76557289134)<br><br>
+[Correlation of squared deviations for bivariate Student t distribution (ChatGPT 5.1 2025-12-07)](https://chatgpt.com/share/6935d6ba-4248-8005-a7f5-e76557289134)<br><br>
+[Correlations of squared deviations for the bivariate Laplace, generalized error, and other elliptical distributions (ChatGPT 5.1 2025-12-07)](https://chatgpt.com/share/6935e06c-b4f0-8005-9e44-dd3b0c056159)<br><br>
