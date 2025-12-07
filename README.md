@@ -135,3 +135,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Correlations of squared deviations for the bivariate Laplace, generalized error, and other elliptical distributions (ChatGPT 5.1 2025-12-07)](https://chatgpt.com/share/6935e06c-b4f0-8005-9e44-dd3b0c056159)<br><br>
 [Multivariate hyperbolic distribution for asset returns (ChatGPT 5.1 2025-12-07)](https://chatgpt.com/share/6935e402-4fe8-8005-8d02-7f75e23b0ac9)<br><br>
 [Multivariate Laplace and generalized error distributions for asset returns (ChatGPT 5.1 2025-12-07)](https://chatgpt.com/share/6935ff9a-d794-8005-a616-4c87d39048ed)<br><br>
+[Regularized generalized error distribution (GED) (ChatGPT 5.1 2025-12-07)](https://chatgpt.com/share/69360513-85ac-8005-9563-85d9431e6415)<br><br>
