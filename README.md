@@ -136,3 +136,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Multivariate hyperbolic distribution for asset returns (ChatGPT 5.1 2025-12-07)](https://chatgpt.com/share/6935e402-4fe8-8005-8d02-7f75e23b0ac9)<br><br>
 [Multivariate Laplace and generalized error distributions for asset returns (ChatGPT 5.1 2025-12-07)](https://chatgpt.com/share/6935ff9a-d794-8005-a616-4c87d39048ed)<br><br>
 [Regularized generalized error distribution (GED) (ChatGPT 5.1 2025-12-07)](https://chatgpt.com/share/69360513-85ac-8005-9563-85d9431e6415)<br><br>
+[Predicting monthly volatility, covariance, and correlation from monthly and higher-frequency returns (ChatGPT 5.1 2025-12-08)](https://chatgpt.com/share/6936c0a9-fb84-8005-beda-47632870930a)<br><br>
