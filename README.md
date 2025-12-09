@@ -138,3 +138,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Regularized generalized error distribution (GED) (ChatGPT 5.1 2025-12-07)](https://chatgpt.com/share/69360513-85ac-8005-9563-85d9431e6415)<br><br>
 [Predicting monthly volatility, covariance, and correlation from monthly and higher-frequency returns (ChatGPT 5.1 2025-12-08)](https://chatgpt.com/share/6936c0a9-fb84-8005-beda-47632870930a)<br><br>
 [Price/earnings ratio vs. history as an indicator (ChatGPT 5.1 2025-12-09)](https://chatgpt.com/share/69381e9d-64b0-8005-9339-8ee91c91b457)<br><br>
+[Variable income annuities and dividend-paying annuities (ChatGPT 5.1 2025-12-09)](https://chatgpt.com/share/693829f1-a4c0-8005-89a9-51e423ed5507)<br><br>
