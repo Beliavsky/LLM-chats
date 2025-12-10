@@ -140,3 +140,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Price/earnings ratio vs. history as an indicator (ChatGPT 5.1 2025-12-09)](https://chatgpt.com/share/69381e9d-64b0-8005-9339-8ee91c91b457)<br><br>
 [Variable income annuities and dividend-paying annuities (ChatGPT 5.1 2025-12-09)](https://chatgpt.com/share/693829f1-a4c0-8005-89a9-51e423ed5507)<br><br>
 [Return on Equity (ROE) factor (ChatGPT 5.1 2025-12-09)](https://chatgpt.com/share/69389968-bc1c-8005-a71b-63a972d513b5)<br><br>
+[NAGARCH and GJR-GARCH asymmetric GARCH models (ChatGPT 5.1 2025-12-10)](https://chatgpt.com/share/69396bc6-ca80-8005-ad6d-1c50da7f30d8)<br><br>
