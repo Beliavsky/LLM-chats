@@ -96,7 +96,7 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Extracting data from a Bank of America (BoA) stock report (ChatGPT 5 2025-10-31)](https://chatgpt.com/share/6905190a-c0cc-8005-9bb5-278556c231e8)<br><br>
 [Yield curve and U.S. stock market returns (ChatGPT 5 2025-11-02)](https://chatgpt.com/share/69078409-6a94-8005-919d-c72614c5dadc)<br><br>
 [When OPEC announces oil production changes (ChatGPT 5 2025-11-02)](https://chatgpt.com/share/69078a79-962c-8005-8ebf-07fac64d643e)<br><br>
-[Measures of call skew and put skew and how skew varies with option tenor (ChatGPT 5 2025-11-03)](https://chatgpt.com/share/6908a806-6b6c-8005-a48e-88bb9388baf6) [Later (ChatGPT 5.1 2025-12-11)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4174538)<br><br> 
+[Measures of call skew and put skew and how skew varies with option tenor (ChatGPT 5 2025-11-03)](https://chatgpt.com/share/6908a806-6b6c-8005-a48e-88bb9388baf6) [Later (ChatGPT 5.1 2025-12-11)](https://chatgpt.com/share/693acc55-0c94-8005-b58b-579e0aea1c7d)<br><br> 
 [Python packages to get fundamental stock data from Yahoo Finance (ChatGPT 5 2025-11-04)](https://chatgpt.com/share/690a30b0-64cc-8005-be34-2a06a5be56a7)<br><br>
 [Pricing American options (ChatGPT 5 2025-11-06)](https://chatgpt.com/share/690cdbf5-02cc-8005-be18-65cd71a9ae1e)<br><br>
 [Option hedging with daily return autocorrelations (ChatGPT 5 2025-11-06)](https://chatgpt.com/share/690cdefd-77a8-8005-b5e8-97969b401ac1)<br><br>
