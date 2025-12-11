@@ -142,3 +142,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Return on Equity (ROE) factor (ChatGPT 5.1 2025-12-09)](https://chatgpt.com/share/69389968-bc1c-8005-a71b-63a972d513b5)<br><br>
 [NAGARCH and GJR-GARCH asymmetric GARCH models (ChatGPT 5.1 2025-12-10)](https://chatgpt.com/share/69396bc6-ca80-8005-ad6d-1c50da7f30d8)<br><br>
 [Hitting time and the inverse Gaussian distribution (ChatGPT 5.1 2025-12-10)](https://chatgpt.com/share/693a10a5-0718-8005-bc46-e04adda0224b)<br><br>
+[Azzalini and Fernandez-Steel skewed distributions (ChatGPT 5.1 2025-12-11)](https://chatgpt.com/share/693b1111-bb3c-8005-b1e6-63e31b213b3c)<br><br>
