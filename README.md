@@ -148,3 +148,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Long-horizon regressions (ChatGPT 2025-12-12)](https://chatgpt.com/share/693c2dc4-4dc4-8005-a5b4-abcc601463cc)<br><br>
 [Fitting univariate normal mixtures from moments (ChatGPT 2025-12-12)](https://chatgpt.com/share/693c2eb7-f434-8005-b769-c255eb99d37d)<br><br>
 [Simulate returns using machine learning (ChatGPT 5.2 deep research 2025-12-14)](https://chatgpt.com/share/693ed193-c13c-8005-9fb6-e9f1d83aba2d)<br><br>
+[Fitting finite non-normal mixtures in Python (ChatGPT 5.2 2025-12-14)](https://chatgpt.com/share/693ed281-8dbc-8005-9654-4f00e112b7fe)<br><br>
