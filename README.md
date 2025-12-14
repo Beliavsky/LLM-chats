@@ -145,5 +145,6 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Hitting time and the inverse Gaussian distribution (ChatGPT 5.1 2025-12-10)](https://chatgpt.com/share/693a10a5-0718-8005-bc46-e04adda0224b)<br><br>
 [Azzalini and Fernandez-Steel skewed distributions (ChatGPT 5.1 2025-12-11)](https://chatgpt.com/share/693b1111-bb3c-8005-b1e6-63e31b213b3c)<br><br> 
 [Moments of the hyperbolic secant distribution (ChatGPT 5.1 2025-12-11)](https://chatgpt.com/share/693b6e78-38ac-8005-8c15-2e55fdf23a23)<br><br>
+[Simulate returns using machine learning (ChatGPT 5.2 deep research 2025-12-14)](https://chatgpt.com/share/693ed193-c13c-8005-9fb6-e9f1d83aba2d)<br><br>
 [Long-horizon regressions (ChatGPT 2025-12-12)](https://chatgpt.com/share/693c2dc4-4dc4-8005-a5b4-abcc601463cc)<br><br>
 [Fitting univariate normal mixtures from moments (ChatGPT 2025-12-12)](https://chatgpt.com/share/693c2eb7-f434-8005-b769-c255eb99d37d)<br><br>
