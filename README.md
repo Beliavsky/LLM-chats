@@ -151,3 +151,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Fitting finite non-normal mixtures in Python (ChatGPT 5.2 2025-12-14)](https://chatgpt.com/share/693ed281-8dbc-8005-9654-4f00e112b7fe)<br><br>
 [GARCH models with generalized hyperbolic innovations (ChatGPT 5.2 2025-12-14)](https://chatgpt.com/share/693ed2f6-b1c4-8005-a4d4-c5caaa9499c5)<br><br>
 [C++ codes for Monte Carlo option pricing (ChatGPT 5.2 2025-12-14)](https://chatgpt.com/share/693ee88e-5a98-8005-84ee-d1a17b3eb983)<br><br>
+[inverse portfolio optimization / reverse optimization (ChatGPT 5.2 2025-12-15)](https://chatgpt.com/share/693fedc1-68b4-8005-8df3-806f6ce4614e)<br><br>
