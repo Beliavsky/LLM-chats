@@ -154,3 +154,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [inverse portfolio optimization / reverse optimization (ChatGPT 5.2 2025-12-15)](https://chatgpt.com/share/693fedc1-68b4-8005-8df3-806f6ce4614e)<br><br>
 [summary of paper "Growth of Income Funds and Death of Volatility" (ChatGPT 5.2 2025-12-15)](https://chatgpt.com/c/693ff204-93c8-8333-a811-a753ca75a2ab)<br><br>
 [GARCH models with time-varying conditional skewness and kurtosis, and ARCD models (ChatGPT 5.2 2025-12-15)](https://chatgpt.com/share/694017db-16dc-8005-b71c-9784c4935f9a)<br><br>
+[Joint distribution of minimum, maximum, and terminal values of a Brownian motion (ChatGPT 5.2 2025-12-15)](https://chatgpt.com/share/69406f20-763c-8005-88f5-bf6592a5354f)<br><br>
