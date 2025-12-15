@@ -146,7 +146,7 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Azzalini and Fernandez-Steel skewed distributions (ChatGPT 5.1 2025-12-11)](https://chatgpt.com/share/693b1111-bb3c-8005-b1e6-63e31b213b3c)<br><br> 
 [Moments of the hyperbolic secant distribution (ChatGPT 5.1 2025-12-11)](https://chatgpt.com/share/693b6e78-38ac-8005-8c15-2e55fdf23a23)<br><br>
 [Long-horizon regressions (ChatGPT 2025-12-12)](https://chatgpt.com/share/693c2dc4-4dc4-8005-a5b4-abcc601463cc)<br><br>
-[Fitting univariate normal mixtures from moments (ChatGPT 2025-12-12)](https://chatgpt.com/share/693c2eb7-f434-8005-b769-c255eb99d37d)<br><br>
+[Fitting univariate normal mixtures from moments (ChatGPT 2025-12-12)](https://chatgpt.com/share/693c2eb7-f434-8005-b769-c255eb99d37d) [Also here](https://chatgpt.com/share/6940553f-0e84-8005-87e3-50c6ecc561e4)<br><br>
 [Simulate returns using machine learning (ChatGPT 5.2 deep research 2025-12-14)](https://chatgpt.com/share/693ed193-c13c-8005-9fb6-e9f1d83aba2d)<br><br>
 [Fitting finite non-normal mixtures in Python (ChatGPT 5.2 2025-12-14)](https://chatgpt.com/share/693ed281-8dbc-8005-9654-4f00e112b7fe)<br><br>
 [GARCH models with generalized hyperbolic innovations (ChatGPT 5.2 2025-12-14)](https://chatgpt.com/share/693ed2f6-b1c4-8005-a4d4-c5caaa9499c5)<br><br>
