@@ -155,3 +155,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [summary of paper "Growth of Income Funds and Death of Volatility" (ChatGPT 5.2 2025-12-15)](https://chatgpt.com/c/693ff204-93c8-8333-a811-a753ca75a2ab)<br><br>
 [GARCH models with time-varying conditional skewness and kurtosis, and ARCD models (ChatGPT 5.2 2025-12-15)](https://chatgpt.com/share/694017db-16dc-8005-b71c-9784c4935f9a)<br><br>
 [Joint distribution of minimum, maximum, and terminal values of a Brownian motion (ChatGPT 5.2 2025-12-15)](https://chatgpt.com/share/69406f20-763c-8005-88f5-bf6592a5354f)<br><br>
+[Autocorrelations (ACF) of the differences of a Fractional Brownian Motion (FBM) process (ChatGPT 5.2 2025-12-16)](https://chatgpt.com/share/6941a4fe-f1dc-8005-86ad-dfe02ab9a0e6)<br><br>
