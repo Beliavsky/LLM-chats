@@ -157,3 +157,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Joint distribution of minimum, maximum, and terminal values of a Brownian motion (ChatGPT 5.2 2025-12-15)](https://chatgpt.com/share/69406f20-763c-8005-88f5-bf6592a5354f)<br><br>
 [Autocorrelations (ACF) of the differences of a Fractional Brownian Motion (FBM) process (ChatGPT 5.2 2025-12-16)](https://chatgpt.com/share/6941a4fe-f1dc-8005-86ad-dfe02ab9a0e6)<br><br>
 [Financial econometrics books using R and Python (ChatGPT 5.2 2025-12-16)](https://chatgpt.com/share/6941ac30-5510-8005-8884-80d474df5cbb)<br><br>
+[Rough volatility (ChatGPT 5.2 2025-12-18)](https://chatgpt.com/share/694465aa-81d4-8005-a919-28730c15d2ac)<br><br>
