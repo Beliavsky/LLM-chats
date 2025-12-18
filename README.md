@@ -42,7 +42,7 @@ Links to my LLM chats
 [GARCH models with finite mixture innovations for stock indices (ChatGPT 2025-12-11)](https://chatgpt.com/share/693de38b-5d9c-8005-a593-d1385fb432ce)<br><br>
 [Multi-period return distributions of GARCH processes (ChatGPT 5 2025-10-28)](https://chatgpt.com/share/6900c56e-447c-8005-8755-990dcf1f6932)<br><br>
 [Best GARCH model to fit a lognormal autoregressive asymmetric stochastic volatility process, as in stock index returns (ChatGPT 5 deep research 2025-08-20)](https://chatgpt.com/share/68a5fc65-3c98-8005-afad-6cf0a46d6d46)<br><br>
-[Smooth transition GARCH models (ChatGPT 5 deep research 2025-10-14)](https://chatgpt.com/share/68eeaa1a-a42c-8005-bc9d-83966bb09412)<br><br>
+[Smooth transition GARCH models (ChatGPT 5 deep research 2025-10-14 and 2025-12-17)](https://chatgpt.com/share/6943e90a-173c-8005-be06-0236008e258a)<br><br>
 [Stochastic volatility estimation using a Laplace filter (ChatGPT 5 2025-10-07)](https://chatgpt.com/share/68e5666a-56a8-8005-a069-2025e52cd27f)<br><br>
 [Tail behavior of the Normal Inverse Gaussian (NIG) and Variance Gamma (VG) distributions, and their simulation and fitting (ChatGPT 5 2025-08-12)](https://chatgpt.com/share/689c5dea-54e0-8005-99c0-d3e7ebb17824), [later (ChagGPT 2025-10-14)](https://chatgpt.com/share/68eebbfc-7edc-8005-906e-8abe1d788276)<br><br>
 [Probability distribution with polynomial left tail and exponential right tail -- CGMY aka tempered stable (ChatGPT 5 202508)](https://chatgpt.com/share/68a11dc5-2a04-8005-b19c-39214186f6eb)<br><br>
