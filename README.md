@@ -160,3 +160,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Rough volatility (ChatGPT 5.2 2025-12-18)](https://chatgpt.com/share/694465aa-81d4-8005-a919-28730c15d2ac)<br><br>
 [Find papers that use the rough fractional stochastic volatility model to forecast realized volatility. (Google Scholar 2025-12-19)](https://scholar.google.com/scholar_labs/search/session/14053191555630777620?hl=en)<br><br>
 [Multivariate logistic distributions and copula (ChatGPT 5.2 2025-12-19)](https://chatgpt.com/share/69459ad6-cf98-8005-9949-be33eb57ea6d)<br><br>
+[Transforming data to achieve normality (ChatGPT 5.2 2025-12-19)](https://chatgpt.com/share/6945b186-2c5c-8005-a91e-9872612b60b6)<br><br>
