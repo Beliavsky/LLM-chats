@@ -163,3 +163,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Transforming data to achieve normality (ChatGPT 5.2 2025-12-19)](https://chatgpt.com/share/6945b186-2c5c-8005-a91e-9872612b60b6)<br><br>
 [Pricing options under the Hull-White stochastic volatility model (ChatGPT 5.2 2025-12-21)](https://chatgpt.com/share/6947fde4-72fc-8005-9cfd-080087646448)<br><br>
 [Fisher information for normal and Student's t distribution (ChatGPT 5.2 2025-12-21)](https://chatgpt.com/share/6948720c-80bc-8005-97fe-68427c1dff80)<br><br>
+[Data snooping corrections for backtesting multiple systems (ChatGPT 5.2 2025-12-21)](https://chatgpt.com/share/69486daa-ebe4-8005-9fc3-f23c5f09d8aa)<br><br>
