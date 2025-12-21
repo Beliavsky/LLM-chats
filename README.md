@@ -162,3 +162,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Multivariate logistic distributions and copula (ChatGPT 5.2 2025-12-19)](https://chatgpt.com/share/69459ad6-cf98-8005-9949-be33eb57ea6d)<br><br>
 [Transforming data to achieve normality (ChatGPT 5.2 2025-12-19)](https://chatgpt.com/share/6945b186-2c5c-8005-a91e-9872612b60b6)<br><br>
 [Pricing options under the Hull-White stochastic volatility model (ChatGPT 5.2 2025-12-21)](https://chatgpt.com/share/6947fde4-72fc-8005-9cfd-080087646448)<br><br>
+[Fisher information for normal and Student's t distribution (ChatGPT 5.2 2025-12-21)](https://chatgpt.com/share/6948720c-80bc-8005-97fe-68427c1dff80)<br><br>
