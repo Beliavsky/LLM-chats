@@ -166,3 +166,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Data snooping corrections for backtesting multiple systems (ChatGPT 5.2 2025-12-21)](https://chatgpt.com/share/69486daa-ebe4-8005-9fc3-f23c5f09d8aa)<br><br>
 [Representing densities as scale mixtures of normals (ChatGPT 5.2 2025-12-21)](https://chatgpt.com/share/694926b2-2dbc-8005-9f17-7cd022673b37)<br><br>
 [Normal-lognormal (lognormal variance mixture) distribution (ChatGPT 5.2 2025-12-22)](https://chatgpt.com/share/69492ead-1324-8005-a80b-f77c2187a554)<br><br>
+[Software for intraday stochastic volatility models (ChatGPT 5.2 2025-12-22)](https://chatgpt.com/share/6949b4d3-65bc-8005-8c0a-58a169fb0422)<br><br>
