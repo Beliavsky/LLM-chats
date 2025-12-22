@@ -164,4 +164,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Pricing options under the Hull-White stochastic volatility model (ChatGPT 5.2 2025-12-21)](https://chatgpt.com/share/6947fde4-72fc-8005-9cfd-080087646448)<br><br>
 [Fisher information for normal and Student's t distribution (ChatGPT 5.2 2025-12-21)](https://chatgpt.com/share/6948720c-80bc-8005-97fe-68427c1dff80)<br><br>
 [Data snooping corrections for backtesting multiple systems (ChatGPT 5.2 2025-12-21)](https://chatgpt.com/share/69486daa-ebe4-8005-9fc3-f23c5f09d8aa)<br><br>
-[Can the Champernowne density be represented as a scale mixture of normals? (In general, no.)(ChatGPT 5.2 2025-12-21)](https://chatgpt.com/share/694926b2-2dbc-8005-9f17-7cd022673b37)<br><br>
+[Representing densities as scale mixtures of normals (ChatGPT 5.2 2025-12-21)](https://chatgpt.com/share/694926b2-2dbc-8005-9f17-7cd022673b37)<br><br>
