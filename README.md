@@ -168,3 +168,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Normal-lognormal (lognormal variance mixture) distribution (ChatGPT 5.2 2025-12-22)](https://chatgpt.com/share/69492ead-1324-8005-a80b-f77c2187a554)<br><br>
 [Software for intraday stochastic volatility models (ChatGPT 5.2 2025-12-22)](https://chatgpt.com/share/6949b4d3-65bc-8005-8c0a-58a169fb0422)<br><br>
 [Discussion of the paper "Machine Learning Meets Markowitz" and multi-period portfolio optimization (ChatGPT 5.2 2025-12-23)](https://chatgpt.com/share/694a9eb5-5dc8-8005-a0d0-7201f34e132d)<br><br>
+[Simulate estimators of mean for skewed distributions (ChatGPT 5.2 2025-12-24)](https://chatgpt.com/share/694c631b-196c-8005-91ec-73fced6fbf0c)<br><br>
