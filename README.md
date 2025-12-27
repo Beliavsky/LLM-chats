@@ -171,3 +171,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Simulate estimators of mean for skewed distributions (ChatGPT 5.2 2025-12-24)](https://chatgpt.com/share/694c631b-196c-8005-91ec-73fced6fbf0c)<br><br>
 [Optimal trimming of trimmed mean for Student t distribution for various degrees of freedom (ChatGPT 5.2 2025-12-23)](https://chatgpt.com/share/694c63c5-b410-8005-aaeb-e1ba1c60fcb1)<br><br>
 [Brownian motion, first hitting time, and the inverse Gaussian distribution (ChatGPT 5.2 2025-12-25)](https://chatgpt.com/share/694ecc7f-08f0-8005-952e-afabe363cb7d)<br><br>
+[Dividend yield as a predictor of stock volatility (ChatGPT 5.2 2025-12-27)](https://chatgpt.com/share/6950013b-a384-8005-ac60-24c7e668c13d)<br><br>
