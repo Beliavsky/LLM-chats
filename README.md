@@ -174,3 +174,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Dividend yield as a predictor of stock volatility (ChatGPT 5.2 2025-12-27)](https://chatgpt.com/share/6950013b-a384-8005-ac60-24c7e668c13d)<br><br>
 [Machine learning and volatility forecasting (ChatGPT 5.2 deep research 2025-12-29)](https://chatgpt.com/share/6952efb4-5180-8005-850e-11f81214f152)<br><br>
 [Tyler's M-estimator for covariance matrices, its use in portfolio optimization, and how it differs from Student's t covariance estimation](https://chatgpt.com/share/6957e579-3aac-8005-8fe7-b5c028806e3c)<br><br>
+[Option structures to maximize utility for risk-averse investors (ChatGPT 5.2 2025-01-02)](https://chatgpt.com/share/6957f4cc-9d98-8005-9ef4-a601b3024365)<br><br>
