@@ -173,3 +173,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Brownian motion, first hitting time, and the inverse Gaussian distribution (ChatGPT 5.2 2025-12-25)](https://chatgpt.com/share/694ecc7f-08f0-8005-952e-afabe363cb7d)<br><br>
 [Dividend yield as a predictor of stock volatility (ChatGPT 5.2 2025-12-27)](https://chatgpt.com/share/6950013b-a384-8005-ac60-24c7e668c13d)<br><br>
 [Machine learning and volatility forecasting (ChatGPT 5.2 deep research 2025-12-29)](https://chatgpt.com/share/6952efb4-5180-8005-850e-11f81214f152)<br><br>
+[Tyler's M-estimator for covariance matrices, its use in portfolio optimization, and how it differs from Student's t covariance estimation](https://chatgpt.com/share/6957e579-3aac-8005-8fe7-b5c028806e3c)<br><br>
