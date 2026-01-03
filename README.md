@@ -177,3 +177,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Option structures to maximize utility for risk-averse investors (ChatGPT 5.2 2025-01-02)](https://chatgpt.com/share/6957f4cc-9d98-8005-9ef4-a601b3024365)<br><br>
 [Comparative performance of asymmetric GARCH models such as GJR GARCH and NAGARCH in predicting stock index volatility (ChatGPT 5.2 2025-01-02)](https://chatgpt.com/share/6958076e-840c-8005-8267-f430f819921b)<br><br>
 [Effects of annual commodity futures index rebalancing (ChatGPT 5.2 2025-01-02)](https://chatgpt.com/share/69580e75-b868-8005-b7a8-baa00cd002fd)<br><br>
+[ARCH models with parameter constraints (ChatGPT 5.2 2025-01-03)](https://chatgpt.com/share/6959352b-4d34-8005-8609-ac9600c8fca2)<br><br>
