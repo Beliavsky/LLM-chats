@@ -76,7 +76,7 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Option pricing using intraday realized volatility (ChatGPT 5 deep research 2025-10-18)](https://chatgpt.com/share/68f3fef6-c360-8005-a46b-7c7a1ac986fe)<br><br>
 [Multi-step ahead predictive distribution of asset prices using GARCH and other methods (ChatGPT 5 deep research 2025-10-19)](https://chatgpt.com/share/68f4f5aa-bc54-8005-a219-3023da97b0b2)<br><br>
 [Theoretical multi-step return distributions for GARCH and log stochastic volatility models (ChatGPT 2025-10-19)](https://chatgpt.com/share/68f50416-eae0-8005-984d-660440cc7805)<br><br>
-[FIGARCH (ChatGPT 5 deep research 2025-10-20)](https://chatgpt.com/share/68f62bff-4f24-8005-bc9e-fde9da30583c)<br><br>
+[FIGARCH (ChatGPT 5 deep research 2025-10-20)](https://chatgpt.com/share/695d14a5-8c20-8005-afcf-8926c3ef5207)<br><br>
 [Random walk stochastic volatility models (ChatGPT 5 2025-10-20)](https://chatgpt.com/share/68f64318-f400-8005-a123-939176a84077)<br><br>
 [Multivariate GARCH (ChatGPT 5 2025-10-20)](https://chatgpt.com/share/68f6623a-135c-8005-9c80-ebb57d35b75b)<br><br>
 [Riskmetrics forecasts of volatilities and correlation with mean reversion, and asymmetric multivariate GARCH models (ChatGPT 5 2025-10-20)](https://chatgpt.com/share/68f66c48-88a0-8005-a6ae-f8c761399201)<br><br>
