@@ -180,3 +180,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [ARCH models with parameter constraints (ChatGPT 5.2 2025-01-03)](https://chatgpt.com/share/6959352b-4d34-8005-8609-ac9600c8fca2)<br><br>
 [Training neural networks with a prior on R^2 (Bayesian neural networks) (ChatGPT 5.2 2026-01-05)](https://chatgpt.com/share/695bbf9e-4c90-8005-8bf6-59e3ff400bef)<br><br>
 [Autocorrelations of squared and absolute returns of GARCH, NAGARCH, GJR-GARCH, EGARCH, FIGARCH, and log ARSV processes (ChatGPT 5.2 2026-01-06)](https://chatgpt.com/c/6959cf5c-9ad8-832e-b73b-fc40b74bf847)<br><br>
+[Regularized t distribution with all moments finite (ChatGPT 5.2 2026-01-06)](https://chatgpt.com/share/695dd308-2af0-8005-8b9f-11cfaa8e1147)<br><br>
