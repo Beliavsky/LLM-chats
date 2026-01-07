@@ -50,7 +50,7 @@ Links to my LLM chats
 [Combining alpha signals with different horizons (ChatGPT deep research 2025-08-19)](https://chatgpt.com/share/68a4dbad-59b8-8005-a0ca-f8a71c2ecad9)<br><br>
 [Function that is quadratic in the center and linear in the tails (ChatGPT 5 2025-09-08)](https://chatgpt.com/share/68bee2e1-718c-8005-860f-1fe8f38a93bc)<br><br>
 [Probability distributions: hyperbolic secant, logistic, Laplace, and others, with log versions (ChatGPT 5 2025-09-14)](https://chatgpt.com/share/68c71970-e720-8005-8ca4-43b465c707a3)<br><br>
-[Option pricing with log-sech, log-logistic, and log-Champernowne distributions (ChatGPT 5 2025-09-15)](https://chatgpt.com/share/68c71970-e720-8005-8ca4-43b465c707a3)<br><br>
+[Option pricing with log-sech, log-logistic, and log-Champernowne distributions (ChatGPT 5 2025-09-15 and ChatGPT 5.2 2026-01-07))](https://chatgpt.com/share/695eb104-0384-8005-afdd-3ef507d81e60)<br><br>
 [Dagum and generalized logistic distributions (ChatGPT 5 2025-10-01)](https://chatgpt.com/share/68dd78de-9af8-8005-9399-610bcc326728)<br><br>
 [Option pricing with the log generalized hyperbolic distribution (ChatGPT 5 2025-09-17)](https://chatgpt.com/c/68cb26fe-aff8-832f-8574-f8b7cd658d95)<br><br>
 [Generalized Student t distribution of McDonald and Newey (ChatGPT 5.1 2025-12-01)](https://chatgpt.com/share/692de098-db10-8005-868c-774336b0949f)<br><br>
