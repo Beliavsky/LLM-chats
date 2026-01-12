@@ -182,4 +182,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Autocorrelations of squared and absolute returns of GARCH, NAGARCH, GJR-GARCH, EGARCH, FIGARCH, and log ARSV processes (ChatGPT 5.2 2026-01-06)](https://chatgpt.com/c/6959cf5c-9ad8-832e-b73b-fc40b74bf847)<br><br>
 [Regularized t distribution with all moments finite (ChatGPT 5.2 2026-01-06)](https://chatgpt.com/share/695dd308-2af0-8005-8b9f-11cfaa8e1147)<br><br>
 [Monotonic transformations from (-inf, inf) to (0, inf) (ChatGPT 5.2 2026-01-08)](https://chatgpt.com/share/695fbe8d-37b0-8005-9266-b37f7fe2588e)<br><br>
-[Calibration of SABR model to SPX index options (ChatGPT 5.2 2026-01-12)](https://chatgpt.com/share/69651610-4430-8005-9896-704c832a3f60)<br><br>
+[Calibration of SABR model to SPX index options, and differences between SABR and expOU SV models (ChatGPT 5.2 2026-01-12)](https://chatgpt.com/share/69651610-4430-8005-9896-704c832a3f60)<br><br>
