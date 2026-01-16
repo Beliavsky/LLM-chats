@@ -185,3 +185,5 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Calibration of SABR model to SPX index options, and differences between SABR and expOU SV models (ChatGPT 5.2 2026-01-12)](https://chatgpt.com/share/69651610-4430-8005-9896-704c832a3f60)<br><br>
 [Packages for the correlation matrix completion and nearest correlation matrix problems (ChatGPT 5.2 2026-01-15)](https://chatgpt.com/share/69694920-7a48-8005-bb44-75c2028a3b41)<br><br>
 [Machine learning models similar to decision trees but which are continuous everywhere (ChatGPT 5.2 2026-01-15)](https://chatgpt.com/share/69695bfa-ac58-8005-aeb7-a87b77a30c15)<br><br>
+[Functional time series models and packages (ChatGPT 5.2 2026-1-16)](https://chatgpt.com/share/696a4792-eb50-8005-81b5-a61309031d42)<br><br>
+                                                                                                                                                                            >
