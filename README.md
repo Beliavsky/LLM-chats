@@ -187,4 +187,5 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Machine learning models similar to decision trees but which are continuous everywhere (ChatGPT 5.2 2026-01-15)](https://chatgpt.com/share/69695bfa-ac58-8005-aeb7-a87b77a30c15)<br><br>
 [Functional time series models and packages (ChatGPT 5.2 2026-1-16)](https://chatgpt.com/share/696a4792-eb50-8005-81b5-a61309031d42)<br><br>
 [Simple models and software for the profit of an option portfolio as a function of spot move (ChatGPT 5.2 2026-01-16)](https://chatgpt.com/share/696a4e98-6ab0-8005-8fa6-8a4954b37c0f)<br><br>
-[Python and R packages that implement GARCH-M (ChatGPT 5.2 2026-01-16)](https://chatgpt.com/share/696aa13b-7404-8005-b568-cdf9185a8d40)<br><br>                                                                                                            
+[Python and R packages that implement GARCH-M (ChatGPT 5.2 2026-01-16)](https://chatgpt.com/share/696aa13b-7404-8005-b568-cdf9185a8d40)<br><br>
+[Vectorized vs. event-based trading systems in Python (ChatGPT 5.2 2026-01-18)](https://chatgpt.com/share/696ccad8-5310-8005-b77b-4560102aef16)<br><br>
