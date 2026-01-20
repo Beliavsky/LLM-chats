@@ -91,7 +91,7 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Heston-Nandi GARCH model (ChatGPT 5 2025-10-29)](https://chatgpt.com/share/6901fd50-1000-8005-9813-c96dc571aeed)<br><br>
 [GARCH option pricing (ChatGPT 5 2025-10-29)](https://chatgpt.com/share/6902022b-b834-8005-82ec-ac448a9173af)<br><br>
 [GARCH option pricing for multiple expirations (ChatGPT 5.1 2025-11-21)](https://chatgpt.com/share/69210338-8ba8-8005-b11f-d2c14a4aa696)<br><br>
-[Edgeworth expansion probability density (ChatGPT 5 2025-10-29)](https://chatgpt.com/share/69021378-0990-8005-815e-add883627875)<br><br>
+[Edgeworth expansion probability density (ChatGPT 5 2025-10-29)](https://chatgpt.com/share/696ede4a-e398-8005-9871-e85ab9fd0325)<br><br>
 [Distribution of index log returns when underlying stock log returns are normal (ChatGPT 5 2025-10-29)](https://chatgpt.com/share/69021be8-8b1c-8005-bfec-e97b95c45d74)<br><br>
 [Distribution of portfolio returns when assets returns follow a multivariate Student's t distribution (ChatGPT 5 2025-10-30)](https://chatgpt.com/share/6903a67d-c1bc-8005-9b78-42120e24f0f0)<br><br>
 [Extracting data from a Bank of America (BoA) stock report (ChatGPT 5 2025-10-31)](https://chatgpt.com/share/6905190a-c0cc-8005-9bb5-278556c231e8)<br><br>
