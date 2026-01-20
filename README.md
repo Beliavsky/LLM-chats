@@ -189,3 +189,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Simple models and software for the profit of an option portfolio as a function of spot move (ChatGPT 5.2 2026-01-16)](https://chatgpt.com/share/696a4e98-6ab0-8005-8fa6-8a4954b37c0f)<br><br>
 [Python and R packages that implement GARCH-M (ChatGPT 5.2 2026-01-16)](https://chatgpt.com/share/696aa13b-7404-8005-b568-cdf9185a8d40)<br><br>
 [Vectorized vs. event-based trading systems in Python (ChatGPT 5.2 2026-01-18)](https://chatgpt.com/share/696ccad8-5310-8005-b77b-4560102aef16)<br><br>
+[Stochastic processes with power law terminal distribution such as Student t (ChatGPT 5.2 2026-01-20)](https://chatgpt.com/share/696fcdc6-1e8c-8005-8bb8-275f5c7c1cc8)<br><br>
