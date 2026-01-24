@@ -193,3 +193,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Terminal distribution of a constant elasticity of variance (CEV) process (ChatGPT 5.2 2026-01-20)](https://chatgpt.com/share/696fdf1c-6834-8005-b860-9fd79e13e345)<br><br>
 [Tail behavior modeling in R (ChatGPT 5.2 2026-01-21)](https://chatgpt.com/share/69711eee-f914-8005-a4da-9379926aab3c)<br><br>
 [Weather forecasts and natural gas futures prices (ChatGPT 5.2 2026-01-24)](https://chatgpt.com/share/6974e5e1-f4a4-8005-8060-c99076a81fb7)<br><br>
+[Fitting the degrees-of-freedom parameter in Student t mixtures (ChatGPT 5.2 2026-01-24)](https://chatgpt.com/share/6974d6cf-83a0-8005-abb5-1a89261d5768)<br><br>
