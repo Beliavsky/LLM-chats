@@ -198,3 +198,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Computing European Black-Scholes implied vols from market data (ChatGPT 4.2 2026-01-28)](https://chatgpt.com/share/697a349c-5c58-8005-9e8f-edd65e81847e)<br><br>
 [Estimation of Merton jump-diffusion model from empirical returns (ChatGPT 5.2 2026-01-28)](https://chatgpt.com/share/697a5328-3834-8005-9826-db445bd15732)<br><br>
 [Universal Density Approximation though finite mixtures (ChatGPT 5.2 2026-01-29)](https://chatgpt.com/share/697b7099-3188-8005-bfd8-e17f2ff056df)<br><br>
+[Fitting successively larger finite mixture models (ChatGPT 5.2 2026-01-29)](https://chatgpt.com/share/697bc6d0-0498-8005-a0d1-455c53c98608)<br><br>
