@@ -199,3 +199,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Estimation of Merton jump-diffusion model from empirical returns (ChatGPT 5.2 2026-01-28)](https://chatgpt.com/share/697a5328-3834-8005-9826-db445bd15732)<br><br>
 [Universal Density Approximation though finite mixtures (ChatGPT 5.2 2026-01-29)](https://chatgpt.com/share/697b7099-3188-8005-bfd8-e17f2ff056df)<br><br>
 [Fitting successively larger finite mixture models (ChatGPT 5.2 2026-01-29)](https://chatgpt.com/share/697bc6d0-0498-8005-a0d1-455c53c98608)<br><br>
+[Smoothing Bachlier implied vol curves (ChatGPT 5.2 2026-10-31)](https://chatgpt.com/share/697e4b73-d8c0-8005-a864-38db0f3dea6b)<br><br>
