@@ -200,3 +200,5 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Universal Density Approximation though finite mixtures (ChatGPT 5.2 2026-01-29)](https://chatgpt.com/share/697b7099-3188-8005-bfd8-e17f2ff056df)<br><br>
 [Fitting successively larger finite mixture models (ChatGPT 5.2 2026-01-29)](https://chatgpt.com/share/697bc6d0-0498-8005-a0d1-455c53c98608)<br><br>
 [Smoothing Bachlier implied vol curves (ChatGPT 5.2 2026-10-31)](https://chatgpt.com/share/697e4b73-d8c0-8005-a864-38db0f3dea6b)<br><br>
+[Transfer function time series models vs. VAR (vector autoregression) and VARMA (ChatGPT 5.2 2026-02-02)](https://chatgpt.com/share/6980b601-c050-8005-9701-b08d9dec1e28)<br><br>
+                                                                                                                                      
