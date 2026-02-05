@@ -202,4 +202,5 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Smoothing Bachlier implied vol curves (ChatGPT 5.2 2026-10-31)](https://chatgpt.com/share/697e4b73-d8c0-8005-a864-38db0f3dea6b)<br><br>
 [Transfer function time series models vs. VAR (vector autoregression) and VARMA (ChatGPT 5.2 2026-02-02)](https://chatgpt.com/share/6980b601-c050-8005-9701-b08d9dec1e28)<br><br>
 [Fractional Difference Estimation (ARFIMA) for time series (ChatGPT 5.2 2026-02-02)](https://chatgpt.com/share/698120db-0360-8005-807d-b5b1b20791f3)<br><br>
+[Continuous Threshold Autoregressive (TAR) time series models (ChatGPT 5.2 2026-02-05)](https://chatgpt.com/share/6984a182-c1bc-8005-a499-19bc8d1d9c50)<br><br>
                                                                                                                                       
