@@ -206,4 +206,5 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Root cancellation in ARMA time series models (ChatGPT 5.2 2026-02-06)](https://chatgpt.com/share/6986945f-9f9c-8005-8482-222d86381125)<br><br>
 [Stationarity and unit-root tests for time series (ChatGPT 5.2 2026-02-08)](https://chatgpt.com/share/698b140e-0a70-8005-9404-a8bc57e9c138)<br><br>
 [Fitting cointegration models to bivariate time series (ChatGPT 5.2 2026-02-08)](https://chatgpt.com/share/698b1498-daa8-8005-8322-26ee07dc3072)<br><br>
+[Time series models of serially correlated regression errors (ChatGPT 5.2 2026-02-08)](https://chatgpt.com/share/698b1532-fb34-8005-8c44-e42310acb043)<br><br>
                                                                                                                                       
