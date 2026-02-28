@@ -209,4 +209,5 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Time series models of serially correlated regression errors (ChatGPT 5.2 2026-02-08)](https://chatgpt.com/share/698b1532-fb34-8005-8c44-e42310acb043)<br><br>
 [Robust regression methods (ChatGPT 5.2 2026-02-08)](https://chatgpt.com/share/6997059e-e830-8005-a7a7-e5e38728a8fa)<br><br>
 [Fortran interfaces to C functions for a transpiler from C to Fortran (ChatGPT 5.2 2026-02-19)](https://chatgpt.com/share/699704b6-d0bc-8005-baac-a6ef9142347b)<br><br>
+[Solving the retirement spending problem (decumulation) using dynamic programming (Bellman equation) (ChatGPT 5.2 2026-02-28)](https://chatgpt.com/share/69a2fffd-402c-8005-8a33-d658f5edaa59)<br><br>
                                                                                                                                       
