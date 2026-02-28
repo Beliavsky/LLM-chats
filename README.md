@@ -210,4 +210,5 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Robust regression methods (ChatGPT 5.2 2026-02-08)](https://chatgpt.com/share/6997059e-e830-8005-a7a7-e5e38728a8fa)<br><br>
 [Fortran interfaces to C functions for a transpiler from C to Fortran (ChatGPT 5.2 2026-02-19)](https://chatgpt.com/share/699704b6-d0bc-8005-baac-a6ef9142347b)<br><br>
 [Solving the retirement spending problem (decumulation) using dynamic programming (Bellman equation) (ChatGPT 5.2 2026-02-28)](https://chatgpt.com/share/69a2fffd-402c-8005-8a33-d658f5edaa59)<br><br>
+[Simple and advanced NumPy functions with examples (ChatGPT 5.2 2026-02-28)](https://chatgpt.com/share/69a319ed-7208-8005-99e6-1411fa458cbd)<br><br>
                                                                                                                                       
