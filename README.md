@@ -213,4 +213,5 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Simple and advanced NumPy functions with examples (ChatGPT 5.2 2026-02-28)](https://chatgpt.com/share/69a319ed-7208-8005-99e6-1411fa458cbd)<br><br>
 [Strengths and weaknesses of Matlab as a scientific programming language and creating a new one (ChatGPT 5.4 2026-03-17)](https://chatgpt.com/share/69b956a2-b6bc-8005-8a80-64cd723aa4e2)<br><br>
 [Pandas-like dataframe with only floating point data, and a Fortran translation (ChatGPT 2026-03-17)](https://chatgpt.com/share/69b9542e-e6d8-8005-bc02-4250423a4e44)<br><br>
+[Ease of translation of modern Fortran, Matlab, and Python/NumPy to C++ (ChatGPT 5.4 2026-03-21)](https://chatgpt.com/share/69bf1def-a9f0-8005-bb8f-3b78bceaded3)<br><br>
                                                                                                                                       
