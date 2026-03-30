@@ -214,4 +214,5 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Strengths and weaknesses of Matlab as a scientific programming language and creating a new one (ChatGPT 5.4 2026-03-17)](https://chatgpt.com/share/69b956a2-b6bc-8005-8a80-64cd723aa4e2)<br><br>
 [Pandas-like dataframe with only floating point data, and a Fortran translation (ChatGPT 2026-03-17)](https://chatgpt.com/share/69b9542e-e6d8-8005-bc02-4250423a4e44)<br><br>
 [Ease of translation of modern Fortran, Matlab, and Python/NumPy to C++ (ChatGPT 5.4 2026-03-21)](https://chatgpt.com/share/69bf1def-a9f0-8005-bb8f-3b78bceaded3)<br><br>
+[Block-structured return correlation matrix (ChatGPT 5.4 2026-03-30)](https://chatgpt.com/share/69ca51ba-23a4-8328-a224-d681d6365602)<br><br>
                                                                                                                                       
