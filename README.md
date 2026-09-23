@@ -219,3 +219,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Fit stochastic volatility models to intraday return data (ChatGPT 5.4 2026-04-08)](https://chatgpt.com/share/69d63833-e2b8-8330-89bc-206a1a598566)<br><br>
 [Transpiling 1D and 2D Fortran arrays to C++ (ChatGPT 2026-05-09)](https://chatgpt.com/share/6a287cad-9ca4-8325-9a69-129050433916)<br><br>
 [Python packages for time series analysis (ChatGPT 2026-07-20)](https://chatgpt.com/share/6a5e6e43-4048-83ea-b173-c52a51677305)<br><br>
+[Fortran libraries to use in SciPy translation (ChatGPT 2026-09-23)](https://chatgpt.com/share/6ab40e3b-5ac4-83e9-b9ab-b28142b87a73)<br><br>
