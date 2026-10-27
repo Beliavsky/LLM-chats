@@ -221,3 +221,4 @@ also [ChatGPT Deep Research 2025-10-14](https://chatgpt.com/share/68ee8f4e-ac44-
 [Python packages for time series analysis (ChatGPT 2026-07-20)](https://chatgpt.com/share/6a5e6e43-4048-83ea-b173-c52a51677305)<br><br>
 [Fortran libraries to use in SciPy translation (ChatGPT 2026-09-23)](https://chatgpt.com/share/6ab40e3b-5ac4-83e9-b9ab-b28142b87a73)<br><br>
 [Approximating the logistic and hyperbolic secant distributions with the symmetric hyperbolic distribution (ChatGPT 2026-09-29 extra high)](https://chatgpt.com/share/6abbdb9d-a8cc-83ea-91e4-349424a11ecd)<br><br>
+[q to Fortran transpiler from j to Fortran transpiler (ChatGPT 2026-10-27 extra high)](https://chatgpt.com/share/6ae0fd96-ed90-83ea-bc99-4afe317b3bb7)<br><br>
